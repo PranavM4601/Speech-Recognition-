@@ -1,0 +1,1 @@
+This project is a Python and Flask application focused on building a platform to analyze and transcribe any Audio File uploaded to the website. This code helps us to use the SpeechRecognition module in Python, take an Audio File as input in Flask, create both a GET and POST request on the same route and finally render the transcribed results of the speech file to the user.
